@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-27T15:09:05 ICT" name="Command line suite" finished-at="2021-04-27T15:10:00 ICT" duration-ms="54811">
+    <groups>
+    </groups>
+    <test started-at="2021-04-27T15:09:05 ICT" name="Command line test" finished-at="2021-04-27T15:10:00 ICT" duration-ms="54811">
+      <class name="com.selenium.ecercise.Bai4">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.selenium.ecercise.Bai4@12405818]" started-at="2021-04-27T15:09:16 ICT" name="beforeMethod" finished-at="2021-04-27T15:09:18 ICT" duration-ms="2165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getDataFromExcel()[pri:0, instance:com.selenium.ecercise.Bai4@12405818]" started-at="2021-04-27T15:09:18 ICT" name="getDataFromExcel" finished-at="2021-04-27T15:09:20 ICT" duration-ms="1968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataFromExcel -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.selenium.ecercise.Bai4@12405818]" started-at="2021-04-27T15:09:20 ICT" name="afterMethod" finished-at="2021-04-27T15:09:20 ICT" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.ecercise.Bai4 -->
+      <class name="com.selenium.ecercise.Bai5">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.selenium.ecercise.Bai5@314c508a]" started-at="2021-04-27T15:09:20 ICT" name="beforeMethod" finished-at="2021-04-27T15:09:23 ICT" duration-ms="2243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="dragAndDrop()[pri:0, instance:com.selenium.ecercise.Bai5@314c508a]" started-at="2021-04-27T15:09:23 ICT" name="dragAndDrop" finished-at="2021-04-27T15:09:28 ICT" duration-ms="5160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.selenium.ecercise.Bai5@314c508a]" started-at="2021-04-27T15:09:28 ICT" name="afterMethod" finished-at="2021-04-27T15:09:28 ICT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.ecercise.Bai5 -->
+      <class name="com.selenium.testflow.Bai3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.selenium.testflow.Bai3@10b48321]" started-at="2021-04-27T15:09:28 ICT" name="beforeMethod" finished-at="2021-04-27T15:09:30 ICT" duration-ms="2222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:com.selenium.testflow.Bai3@10b48321]" started-at="2021-04-27T15:09:30 ICT" name="f" finished-at="2021-04-27T15:09:36 ICT" duration-ms="5632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.selenium.testflow.Bai3@10b48321]" started-at="2021-04-27T15:09:36 ICT" name="afterMethod" finished-at="2021-04-27T15:09:36 ICT" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.testflow.Bai3 -->
+      <class name="com.selenium.testflow.Bai4">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.selenium.testflow.Bai4@6b67034]" started-at="2021-04-27T15:09:36 ICT" name="beforeMethod" finished-at="2021-04-27T15:09:38 ICT" duration-ms="2283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:com.selenium.testflow.Bai4@6b67034]" started-at="2021-04-27T15:09:38 ICT" name="f" finished-at="2021-04-27T15:10:00 ICT" duration-ms="21490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.selenium.testflow.Bai4@6b67034]" started-at="2021-04-27T15:10:00 ICT" name="afterMethod" finished-at="2021-04-27T15:10:00 ICT" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.testflow.Bai4 -->
+      <class name="com.selenium.ecercise.Bai3">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.selenium.ecercise.Bai3@1442d7b5]" started-at="2021-04-27T15:09:05 ICT" name="beforeMethod" finished-at="2021-04-27T15:09:13 ICT" duration-ms="8121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="basic()[pri:0, instance:com.selenium.ecercise.Bai3@1442d7b5]" started-at="2021-04-27T15:09:13 ICT" name="basic" finished-at="2021-04-27T15:09:16 ICT" duration-ms="3115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.selenium.ecercise.Bai3@1442d7b5]" started-at="2021-04-27T15:09:16 ICT" name="afterMethod" finished-at="2021-04-27T15:09:16 ICT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.selenium.ecercise.Bai3 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

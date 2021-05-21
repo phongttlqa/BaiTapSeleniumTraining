@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Suite" verbose="1">
+    <test name="FirstTest">
+        <classes>
+            <class name="com.selenium.ecercise.Bai3" />
+            <class name="com.selenium.ecercise.Bai4" />
+            <class name="com.selenium.ecercise.Bai5" />
+            <class name="com.selenium.ecercise.Bai6" />
+            <class name="com.selenium.ecercise.Bai8" />
+            <class name="com.selenium.ecercise.Bai9" />
+            <class name="com.selenium.ecercise.Bai11" />
+        </classes>
+    </test>
+</suite>
